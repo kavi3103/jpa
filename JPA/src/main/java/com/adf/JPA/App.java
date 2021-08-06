@@ -8,11 +8,6 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 import javax.persistence.Query;
 
-
-/**
- * Hello world!
- *
- */
 public class App 
 {
     @SuppressWarnings({ "resource", "unchecked" })
