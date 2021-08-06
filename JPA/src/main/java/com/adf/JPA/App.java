@@ -27,7 +27,6 @@ public class App
 		System.out.println("Enter Transaction fee");
 		int fee = sc.nextInt();
 		
-		//Bank_Account acc = new Bank_Account(id,acc_no,name,type,balance,fee);
 		
 		Account acc = new Account(id,acc_no,name,type,balance,fee);
 		
